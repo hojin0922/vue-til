@@ -1,0 +1,43 @@
+swagger.io
+
+github.com/joshua1988/vue-til
+
+github.com/joshua1988/vue-til-server
+
+https://www.mongodb.com/cloud
+
+
+
+prettier 설정
+
+joshua1988.github.io/web-developmaent/vuejs/boost-productivity
+https://github.com/joshua1988/learn-typescript/tree/master/setup
+
+jsconfig.json 설정
+https://github.com/joshua1988/vue-til/blob/complete/jsconfig.json
+
+
+vue 스타일 가이드
+https://kr.vuejs.org/v2/style-guide/index.html
+
+axios 인터셉터
+https://github.com/axios/axios#interceptors
+
+
+아이콘
+https://ionic.io/ionicons/usage
+
+vue 필터
+https://vuejs.org/v2/guide/filters.html#ad
+
+네이게이션 가드
+https://router.vuejs.org/guide/advanced/navigation-guards.html
+
+테스팅
+https://2019.stateofjs.com/testing/
+https://jestjs.io/
+
+https://vue-test-utils.vuejs.org/guides/
+
+
+https://heropy.blog/
